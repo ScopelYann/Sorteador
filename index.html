@@ -15,14 +15,12 @@
         <h2 class="info-useless">DevSorteio</h2><!--Titulo "DevSorteio"-->
 
         <!--Input-->
-        <p id="quanti-sorts">Sortear 
-            <input type="number" 
-            name="quantity-sorts" 
-            id="quantity-sorts"
-            oninput="limitarCaracteres(this, 2)" 
-            value="5"> 
-            números</p>
-            <!--Input onde e colocado o quanto de números randômico serão gerados-->
+        <p id="quanti-sorts">Sortear
+            <input type="number" name="quantity-sorts" id="quantity-sorts" oninput="limitarCaracteres(this, 2)"
+                value="5">
+            números
+        </p>
+        <!--Input onde e colocado o quanto de números randômico serão gerados-->
 
         <div id="inputs"><!--Inputs Maximo e minimo onde e colocado os valores do sorteio-->
             <input type="number" id="minimo" placeholder="Mínimo" oninput="limitarCaracteres(this, 4)">
@@ -32,6 +30,18 @@
 
         <button id="Sorteador-button" onclick="realizarSorteio()">Sortear</button><!--Botão De conversão-->
     </main>
+    <div class="containers">
+        <div class="container-result"></div>
+        <div class="container-result"></div>
+        <div class="container-result"></div>
+        <div class="container-result"></div>
+        <div class="container-result"></div>
+        <div class="container-result"></div>
+        <div class="container-result"></div>
+        <div class="container-result"></div>
+        <div class="container-result"></div>
+        <div class="container-result"></div>
+    </div>
 </body>
 <script src="script.js"></script>
 
