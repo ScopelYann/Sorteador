@@ -1,4 +1,4 @@
-# Sorteador de Números Aleatórios
+# DevSorteio
 
 Este é um simples projeto de sorteio de números aleatórios, onde você pode definir um valor mínimo, um valor máximo e a quantidade de números aleatórios a serem gerados. 
 
