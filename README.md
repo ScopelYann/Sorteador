@@ -32,4 +32,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ---
 
-*Este projeto é fornecido como está, sem garantias expressas ou implícitas sobre a adequação do mesmo para qualquer finalidade específica.*
+
